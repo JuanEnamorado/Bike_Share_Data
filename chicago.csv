@@ -1,0 +1,7 @@
+Order;Start Time;End Time;Trip Duration;Start Station;End Station;User Type;Gender;Birth Year
+50543;21/5/2023 09:02;21/5/2023 09:09;00:07:41;Clark St & Schiller St;Clark St & Wrightwood Ave;casual;nan;
+112465;26/5/2023 09:53;26/5/2023 10:01;00:07:23;;Southport Ave & Wrightwood Ave;casual;female;1989
+142398;4/5/2023 08:58;4/5/2023 09:03;00:05:03;Peoria St & Jackson Blvd;Sangamon St & Washington Blvd;member;male;1982
+296752;24/5/2023 07:38;24/5/2023 07:45;00:06:29;DuSable Lake Shore Dr & Belmont Ave;Theater on the Lake;member;male;1981
+421959;13/5/2023 17:48;13/5/2023 18:00;00:11:48;Clifton Ave & Armitage Ave;Broadway & Belmont Ave;member;female;1972
+592518;11/5/2023 12:18;11/5/2023 12:32;00:14:27;Indiana Ave & 31st St;State St & 33rd St;member;nan;

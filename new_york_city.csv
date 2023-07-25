@@ -1,0 +1,7 @@
+order;Start Time;End Time;Trip Duration;Start Station;End Station;User Type;Gender;Birth Year
+29;5/5/2023 20:49;5/5/2023 21:10;00:21:12;Stevens - River Ter & 6 St;Stevens - River Ter & 6 St;casual;female;1991
+51;26/5/2023 16:42;26/5/2023 16:44;00:02:18;City Hall - Washington St & 1 St;Clinton St & Newark St;member;female;1988
+328;21/5/2023 16:18;21/5/2023 16:30;00:12:19;Marshall St & 2 St;South Waterfront Walkway - Sinatra Dr & 1 St;member;nan;
+875;25/5/2023 18:39;25/5/2023 18:47;00:08:08;14 St Ferry - 14 St & Shipyard Ln;Adams St & 2 St;member;male;1986
+46791;12/5/2023 18:41;12/5/2023 19:38;00:57:15;Warren St;Bloomfield St & 15 St;member;nan;
+96001;16/5/2023 11:56;16/5/2023 12:04;00:07:53;Columbus Drive;Newport Pkwy;member;female;1997
